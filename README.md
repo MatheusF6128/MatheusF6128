@@ -24,7 +24,7 @@ src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=boot
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=MatheusF6128&show_icons=true&theme=tokyonight" alt="MatheusF6128's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusF6128&layout=compact&theme=tokyonight" alt='MatheusF6128's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusF6128& layout=compact&theme=tokyonight" alt='MatheusF6128's most languages"/>
 </p>
 
 <br><br>
